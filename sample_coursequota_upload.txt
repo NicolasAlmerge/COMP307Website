@@ -1,0 +1,2 @@
+2023,COMP 424,Regular,blahblah3,joseph@comp307.com,200,6
+2023,COMP 425,Lab,blahblah4,joseph@comp307.com,200,6

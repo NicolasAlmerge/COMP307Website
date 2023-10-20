@@ -1,0 +1,1 @@
+Honours Project in Computer Science and Biology,One-semester research project applying computational approaches to a biological problem. The project is (co)-supervised by a professor in Computer Science and/or Biology or related fields.,Winter,2023,COMP 402,mathieu@comp307.com

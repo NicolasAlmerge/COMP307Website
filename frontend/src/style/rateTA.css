@@ -1,0 +1,131 @@
+.rate-ta-term-input, .rate-ta-year-input,
+.rate-ta-course-input {
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.rate-ta-term-input {
+    padding: 2px;
+}
+
+.rate-ta-year-input {
+    width: 60px;
+}
+
+.rate-ta-class-search-submit,
+.rate-ta-btn, .rate-ta-submit-btn {
+    padding: 1px 10px;
+    border-radius: 3px;
+}
+
+.rate-ta-class-search-submit {
+    display: inline-block;
+    background-color: #2769cb;
+    color: #fff;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.rate-ta-class-search-submit:hover {
+    background-color: #1851a7;
+}
+
+.rate-ta-class-search-submit[disabled] {
+    background-color: gray;
+    cursor: not-allowed;
+}
+
+.star-rating {
+    display: inline-block;
+}
+
+.star-rating-btn {
+    background-color: transparent;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.star-rating-value-1,
+.starIcon-value-1 {
+    color: #E00;
+}
+
+.star-rating-value-2,
+.starIcon-value-2 {
+    color: rgb(238, 131, 0);
+}
+
+.star-rating-value-3,
+.starIcon-value-3 {
+    color: #DD0;
+}
+
+.star-rating-value-4,
+.starIcon-value-4 {
+    color: rgb(5, 156, 5);
+}
+
+.star-rating-value-5,
+.starIcon-value-5 {
+    color: rgb(15, 150, 208);
+}
+
+textarea {
+    resize: none !important;
+}
+
+.rate-ta-table-row {
+    height: 46px;
+}
+
+.rate-ta-table-data, .rate-ta-table-header {
+    vertical-align: middle;
+    text-align: center;
+}
+
+.rate-ta-table-header {
+    font-size: larger;
+}
+
+.rate-ta-table-entry {
+    padding-top: 2px !important;
+    padding-bottom: 2px !important;
+}
+
+.rate-ta-table-data p {
+    padding-top: 3px !important;
+    padding-bottom: 3px !important;
+    margin-bottom: 0;
+}
+
+.rate-ta-btn {
+    background-color: lightgray;
+}
+
+.rate-ta-btn:hover {
+    background-color: rgb(189, 189, 189);
+}
+
+.rate-ta-submit-btn {
+    background-color: green;
+    color: white;
+    cursor: pointer;
+}
+
+.rate-ta-submit-btn:hover {
+    background-color: rgb(5, 108, 5);
+}
+
+.rate-ta-submit-btn[disabled] {
+    background-color: gray;
+    cursor: not-allowed;
+}
+
+.rate-ta-chars-remaining {
+    text-align: center;
+}
+
+.rate-ta-chars-remaining-low {
+    color: #E00;
+}

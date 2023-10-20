@@ -1,0 +1,162 @@
+#profTable table td {
+  border: 1px solid #e9ecee;
+}
+#profTable th {
+  font-weight: normal;
+  border: 1px solid #e9ecee;
+}
+#profTable td {
+  font-weight: 200;
+  color: black;
+  border: 1px solid #e9ecee;
+}
+
+#profTable th:first-child {
+  border-left: none;
+}
+#profTable td:first-child {
+  border-left: none;
+}
+
+#profTable th:nth-child(2) {
+  border-left: none;
+}
+#profTable td:nth-child(2) {
+  border-left: none;
+}
+
+#profTable th:last-child {
+  border-right: none;
+}
+#profTable td:last-child {
+  border-right: none;
+}
+
+#profTable .column0 {
+  border: none;
+}
+
+th,
+td {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.btn.btn-secondary.edit-btn, .btn.btn-secondary.delete-btn {
+  appearance: none;
+  background: none;
+  border: none;
+  outline: none;
+}
+
+.btn.btn-secondary.edit-btn {
+  color: blue;
+}
+
+.btn.btn-secondary.delete-btn {
+  color: red;
+}
+
+.mb-4.mt-2 {
+  padding-left: 27px;
+  color: green;
+}
+
+.wishlist-add {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 0px;
+  color: green;
+}
+
+.courses {
+  color: #a5a4a1;
+  font-size: 13px;
+  font-weight: bold;
+  border: 1.5px solid #dfdfdf;
+  box-shadow: 0px 0px 2px 0px #dfdfdf;
+  border-radius: 5px;
+}
+
+/* padding for sysop add professor form */
+.modal-content .row {
+  padding: 10px;
+}
+
+/* padding for sysop add course form */
+.modal-body .form-group {
+  padding: 10px;
+}
+
+/* styling to place wishlist button inline with course name */
+.inline {
+  float: left !important;
+}
+
+/* TA Admin page title spacing */
+.course-name {
+  padding: 20px 20px 20px 20px;
+}
+
+/* view wishlist button spacing */
+.view-wishlist {
+  padding: 24px 20px 20px 20px;
+}
+
+/* button spacing used on multiple pages*/
+.button-spacing {
+  padding-left: 15px;
+  float: right !important;
+}
+
+/* add TA button pages*/
+.add-ta-button {
+  padding-left: 15px;
+}
+
+/* removes blue highlighting when clicking on dropdown */
+.dropdown-item:active {
+  color: black !important;
+  background-color: #dee2e6 !important;
+}
+
+.dropdown-toggle.courses , .dropdown-menu.courses {
+  background-color: white !important;
+  color: #a5a4a1 !important;
+  font-size: 13px;
+  font-weight: bold;
+  border: 1.5px solid #dfdfdf;
+  box-shadow: 0px 0px 2px 0px #dfdfdf;
+  border-radius: 5px;
+}
+
+/* TA Admin. have beginning of table always line up with course name */
+@media (min-width: 1200px){
+  .container,
+  .container-lg,
+  .container-md,
+  .container-sm,
+  .container-xl {
+    max-width: 1140px !important;
+  }
+}
+
+/* prevent new line */
+.prof-log-add {
+  display: flex;
+}
+
+/* styling for professor log modal back button */
+.log-back {
+padding-bottom: 15px;
+}
+
+/* styling for professor log modal add button */
+.log-add {
+  color: green;
+}
+
+.rowC{
+  display:flex; 
+  flex-direction:row;
+}

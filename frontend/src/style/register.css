@@ -1,0 +1,67 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  /*background: #bdc3c7;*/  /* fallback for old browsers */
+  /*background: -webkit-linear-gradient(to right, #2c3e50, #bdc3c7);*/  /* Chrome 10-25, Safari 5.1-6 */
+  /*background: linear-gradient(to right, #2c3e50, #bdc3c7);*/ /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.form {
+  background-color: #fefefe;
+  margin: 5% auto 15% auto; /* 5% from the top, 15% from the bottom and centered */
+  border: 2px solid rgb(119, 27, 27);
+  width: 80%; /* Could be more or less, depending on screen size */
+  max-width:500px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.form-body{
+  text-align: left;
+  padding: 20px 10px;
+}
+
+.form-body > * {
+  padding: 5px;
+}
+
+
+.form_input {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f2f2f2;
+}
+
+.register-user-button {
+  background-color: #444745;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 50%;
+  opacity: 0.9;
+}
+
+.register-user-button:hover {
+  opacity:1;
+}
+.button2 {
+  background-color: #444745;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  opacity: 0.9;
+}
+.button2:hover {
+  opacity:1;
+}
+
+hr {
+  border: 2px solid #FF0000;
+  padding: 1px;
+}

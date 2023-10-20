@@ -1,0 +1,2 @@
+Jane2,Doe,jane2@comp307.com,jdcomp307,ta/student
+Mathieu2,Blanchette,mathieu2@comp307.com,mbcomp307,prof/sysop/admin

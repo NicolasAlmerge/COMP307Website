@@ -1,0 +1,2 @@
+2023,Justin Edelstein,2222222222,Justin Edelstein,just@comp307.com,ugrad,Joseph,yes,100,08/12/2022,mcgill,5555555555,science,[COMP361 COMP360],no,give a course
+2023,Nicolas Almerge,2222222222,Nicolas Almerge,nicolas@comp307.com,ugrad,Joseph,yes,100,08/12/2022,mcgill,5555555555,science,[COMP361 COMP360],no,give a course
